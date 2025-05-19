@@ -128,5 +128,3 @@ All at price \$9, and you’ve just cleared 150 shares in one go.
 * **Step functions** $D(p),\,S(p)$ built by summation
 * **Argmax/min** to pick clearing price
 * **Pro-rata** fractions to split scarce volume
-
-Hope that makes the notation and the steps crystal clear! Let me know if you want to dive deeper into any of these pieces.
